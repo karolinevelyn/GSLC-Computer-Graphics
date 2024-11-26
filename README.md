@@ -1,4 +1,3 @@
-Tugas GSLC - Aplikasi editing gambar sederhana
 Nama: Karolin Evelyn Natalia
 NIM: 2602059664
 
